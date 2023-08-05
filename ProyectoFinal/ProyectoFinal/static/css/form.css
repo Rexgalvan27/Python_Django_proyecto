@@ -1,0 +1,43 @@
+h1{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+h2{
+  color: aliceblue;
+  text-align: center;
+}
+h3{
+  color: aliceblue;
+  text-align: center;
+
+}
+p{
+  background-image: url(fondonegro.jpg);
+  color: rgb(255, 255, 255);
+  text-align:center;
+
+}
+a{
+  color: blanchedalmond;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+label{
+  color: rgb(255, 251, 251);
+  background-color: black;
+}
+
+hr.new4 {
+  border: 1px solid red;
+}
+
+body{
+  background-image: url(fondonegro.jpg);
+  
+}
+
+img:hover {-webkit-transform:scale(1.3);transform:scale(1.3);}
+.contenedor {overflow:hidden;
+}

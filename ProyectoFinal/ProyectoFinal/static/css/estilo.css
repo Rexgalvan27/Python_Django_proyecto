@@ -1,0 +1,40 @@
+h1{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+h2{
+  color: aliceblue;
+  text-align: center;
+}
+h3{
+  color: aliceblue;
+  text-align: center;
+
+}
+p{
+  background-image: url(fondonegro.jpg);
+  color: rgb(255, 255, 255);
+  text-align:center;
+
+}
+a{
+  color: blanchedalmond;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+hr.new4 {
+  border: 1px solid red;
+}
+
+body{
+  background-image: url(fondonegro.jpg);
+  
+}
+
+img:hover {
+  cursor: pointer;
+  filter: sepia(60%);
+}
